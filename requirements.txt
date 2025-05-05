@@ -1,0 +1,8 @@
+pandas==2.0.3
+numpy==1.25.2
+nltk==3.9.1
+scikit-learn==1.6.1
+joblib==1.4.2
+request==2.32.3
+importlib==1.0.4
+annif_client==0.4.0
